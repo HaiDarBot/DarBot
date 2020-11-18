@@ -1,4 +1,5 @@
-## REUZSC
+## HaiDarBot
+</s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </ s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s>  </s> orang </s>
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +17,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/HaiDarBot/DarBot
+> cd DarBot
 > bash install.sh
 > node index.js
 ```
